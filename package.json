@@ -1,0 +1,30 @@
+{
+  "name": "domeo",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "files": ["README.md, LICENSE"],
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InovaTech-BG/domeo.git"
+  },
+  "keywords": [
+    "Typescript",
+    "Framework",
+    "Web"
+  ],
+  "publisher": "InovaTech BG",
+  "publishConfig": {
+    "access": "public"
+  },
+
+  "author": "Brennon Gabriel de Oliveira",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/InovaTech-BG/domeo/issues"
+  },
+  "homepage": "https://github.com/InovaTech-BG/domeo#readme"
+}
